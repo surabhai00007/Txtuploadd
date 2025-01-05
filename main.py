@@ -32,12 +32,12 @@ import aiohttp
 bot = Client("bot",
              bot_token= "", 
              #bot_token= os.environ.get("BOT_TOKEN"),
-             api_id= ,
-             api_hash= "")
+             api_id= 28328736,
+             api_hash= "802254a44896baa87f3083b7af36b2e5")
 auth_users = []
 #romeo  
 
-owner_id = 
+owner_id = 2052075731
 # Extras 
 failed_links = []  # List to store failed links
 fail_cap =f"**➜ This file Contain Failed Downloads while Downloding \n You Can Retry them one more time **"
